@@ -24,6 +24,8 @@
 On check
 ![alt text](img/image-7.png)
 
+and
+
 ![alt text](img/image-6.png)
 
 ## Test API avec Postman
