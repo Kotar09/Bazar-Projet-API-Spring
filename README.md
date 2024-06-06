@@ -15,11 +15,22 @@
 - Framework : Spring Boot
 - Base de données : MySQL
 - Outils de construction : Maven 
+- Migration : Flyway
+
+## Insertion des données avec Flyway 
+
+![alt text](img/image-5.png)
+
+On check
+![alt text](img/image-7.png)
+
+![alt text](img/image-6.png)
 
 ## Test API avec Postman
 
 ![alt text](img/image-3.png)
 
-## Dans le navigateur après le Run Sprint Boot:BazarApplication
+## Run Sprint Boot:BazarApplication
 
 ![alt text](img/image-4.png)
+
