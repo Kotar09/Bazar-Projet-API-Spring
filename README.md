@@ -15,3 +15,11 @@
 - Framework : Spring Boot
 - Base de données : MySQL
 - Outils de construction : Maven 
+
+## Test API avec Postman
+
+![alt text](img/image-3.png)
+
+## Dans le navigateur après le Run Sprint Boot:BazarApplication
+
+![alt text](img/image-4.png)
